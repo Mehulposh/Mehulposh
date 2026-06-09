@@ -60,7 +60,7 @@ A full-stack collaborative workspace platform where teams can manage projects, t
 A full-stack competitive coding platform where developers battle each other live by solving coding problems in real-time. Watch your opponent code, submit solutions, and climb the global leaderboard. 
 
 ### E-Commerce
-An E-commerce backend using microservices
+Developed the backend of an E-Commerce platform using a Microservices Architecture to ensure scalability, fault isolation, and independent service deployment. The system consists of dedicated services for Authentication, Product Management, Inventory, Orders, Payments, and Notifications, communicating through REST APIs and asynchronous messaging. An API Gateway serves as the single entry point for client requests, while each service maintains its own database to support decentralized data management. The architecture is designed to handle high traffic, improve maintainability, and enable seamless scaling of individual business components.
 
 ### DevFolio 
 A full-stack developer portfolio and blog content management system built with the MERN stack (MongoDB, Express.js, React, Node.js). It combines a polished public-facing portfolio site with a powerful private admin panel, giving developers complete control over their personal brand — from showcasing projects to publishing technical blog posts with SEO optimization, image management, and engagement analytics.
